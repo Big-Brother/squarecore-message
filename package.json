@@ -1,6 +1,6 @@
 {
   "name": "@big-brother/squarecore-message",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Square Messages for Bitcore-Square",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "keywords": [
     "square",
-    "bitcore-square",
+    "squarecore-square",
     "message",
     "signing"
   ],
@@ -21,10 +21,10 @@
     "url": "https://Big-Brother:566e87145f7d24cf2ede7e308370070332b25882@github.com/Big-Brother/squarecore-message.git"
   },
   "dependencies": {
-    "squarecore-lib": "https://Big-Brother:566e87145f7d24cf2ede7e308370070332b25882@github.com/Big-Brother/squarecore-lib.git#82717a30bf965c581c4b92ac1ecbf8e74b75bf50"
+    "squarecore-lib": "https://Big-Brother:566e87145f7d24cf2ede7e308370070332b25882@github.com/Big-Brother/squarecore-lib.git#b2e7ce22c5ad12f73badc5da25a6e2a0ad0b24a5"
   },
   "devDependencies": {
-    "squarecore-build": "https://Big-Brother:566e87145f7d24cf2ede7e308370070332b25882@github.com/Big-Brother/squarecore-build.git#88cd4b2d8df577db628d046cdc97d63c4523296a",
+    "squarecore-build": "https://Big-Brother:566e87145f7d24cf2ede7e308370070332b25882@github.com/Big-Brother/squarecore-build.git#fd56aa18f6fa7926fe29f3874ac64a69e16dffd7",
     "brfs": "^1.3.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10"

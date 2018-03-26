@@ -1,8 +1,8 @@
 'use strict';
 
 var gulp = require('gulp');
-var bitcoreTasks = require('squarecore-build');
+var squarecoreTasks = require('squarecore-build');
 
-bitcoreTasks('message');
+squarecoreTasks('message');
 
 gulp.task('default', ['lint', 'coverage']);

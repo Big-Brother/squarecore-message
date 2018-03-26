@@ -1,4 +1,4 @@
-var bitcore = require('squarecore-lib');
-bitcore.Message = require('./lib/message');
+var squarecore = require('squarecore-lib');
+squarecore.Message = require('./lib/message');
 
-module.exports = bitcore.Message;
+module.exports = squarecore.Message;
