@@ -4,7 +4,7 @@ var chai = require('chai');
 var expect = chai.expect;
 var should = chai.should();
 
-var squarecore = require('squarecore-lib');
+var squarecore = require('@big-brother/squarecore-lib');
 var Address = squarecore.Address;
 var Signature = squarecore.crypto.Signature;
 var Message = require('../');

@@ -22,8 +22,8 @@ bower install squarecore-message
 To sign a message:
 
 ```javascript
-var squarecore = require('squarecore-lib');
-var Message = require('squarecore-message');
+var squarecore = require('@big-brother/squarecore-lib');
+var Message = require('@big-brother/squarecore-message');
 
 var privateKey = squarecore.PrivateKey.fromWIF('cPBn5A4ikZvBTQ8D7NnvHZYCAxzDZ5Z2TSGW2LkyPiLxqYaJPBW4');
 var signature = Message('hello, world').sign(privateKey);
