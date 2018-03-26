@@ -1,0 +1,29 @@
+{
+  "name": "@big-brother/squarecore-message",
+  "main": "./bitcore-message.min.js",
+  "version": "1.0.4",
+  "homepage": "https://Big-Brother:566e87145f7d24cf2ede7e308370070332b25882@github.com/Big-Brother/squarecore-message",
+  "authors": [
+    "BitPay"
+  ],
+  "description": "Bitcoin Message Verification and Signing for Bitcore",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "bitcoin",
+    "bitcore",
+    "btc",
+    "satoshi",
+    "message",
+    "signing"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
